@@ -1,25 +1,4 @@
-# procamera
-
-A new Flutter project.
-
-## Getting Started
-
-<table>
-  <tr>
-    <td>GIF</td>
-     </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/121105558/211193991-00aa3608-5f6d-4ff9-af27-2b6057c9f54e.gif"style="width:200px;"></td>
-    </tr>
-  
-  
-  <table>
-  <tr>
-    <td></td>
-     </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/121105558/211193634-d72124ff-4fd9-494f-a74e-d89d5bb26d40.jpeg"style="width:200px;"></td>
-    <td><img src="https://user-images.githubusercontent.com/121105558/211193649-bd705aee-98f8-45ef-9809-584d9579bd2a.jpeg"style="width:200px;"></td>
-     <td><img src="https://user-images.githubusercontent.com/121105558/211193641-e7d3e5f4-0cce-4ffb-9f10-c3e20f4d44bc.jpeg"style="width:200px;"></td>
-  </tr>
-  
+![image](https://user-images.githubusercontent.com/121867877/234584029-4b06430d-c76a-4ab5-918b-38133f5d3f38.png)
+![image](https://user-images.githubusercontent.com/121867877/234584047-d2e92f4a-f7ff-4765-b0f4-fed24befa0da.png)
+![image](https://user-images.githubusercontent.com/121867877/234584060-ad23b013-9723-4346-a63d-83472ddb20d8.png)
+![image](https://user-images.githubusercontent.com/121867877/234584006-cd1f1446-a3ef-4f72-a765-0f7272e4729d.png)
